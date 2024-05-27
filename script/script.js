@@ -10,13 +10,5 @@ $(function(){
         $('#loginform').submit();
     })
 
-    $('#talk').on("keyup", function(e){
-
-        // 키코드 확인하는 법
-        // console.log(e.keyCode);
-
-        if(e.keyCode == 13){
-            
-        }
-    });
+    
 });
